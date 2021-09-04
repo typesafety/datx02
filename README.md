@@ -2,10 +2,6 @@
 
 [![Build and deploy](https://github.com/datx02-21-16/datx02/actions/workflows/build.yml/badge.svg)](https://github.com/datx02-21-16/datx02/actions/workflows/build.yml)
 
-## Other dependencies
-
-`stack`: https://haskellstack.org
-
 ## Installation
 
 1. Install NodeJS and NPM.
