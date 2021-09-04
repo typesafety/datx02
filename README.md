@@ -12,3 +12,4 @@
    ```
 
 3. Run `npm install` to fetch dependencies
+4. `spago install`
